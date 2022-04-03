@@ -48,13 +48,9 @@
 
    
 
-<div align="center" style="display: inline_block">  
+<div align="center" ">  
 
   <a href = "mailto:fernando91.sosa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
-
   <a href="https://www.linkedin.com/in/fernando-carretto/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
   <a href="https://www.workana.com/freelancer/0e4ed7aa5719ac3e8e4835b4dd4a9c92" target="_blank"><img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white" target="_blank"></a> 
-
-
-  </div> 
+</div> 
