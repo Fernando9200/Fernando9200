@@ -48,7 +48,7 @@
 
    
 
-<div align="center">  
+<div align="center" style="display: inline_block">  
 
   <a href = "mailto:fernando91.sosa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 
