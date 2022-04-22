@@ -1,9 +1,18 @@
 ## Olá! Meu nome é Fernando Carretto, sou desenvolvedor Full-Stack e estou em busca de novas oportunidades!
 
-
 <div align="center"> 
 
   <a href="https://fernando-carretto.netlify.app/"> 
+
+  <img height="300em" src="https://i.ibb.co/MDKzSWB/banner.png" alt="banner" />  
+
+</div>
+  
+  ##
+
+<div align="center"> 
+
+  <a href="https://github.com/Fernando9200"> 
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fernando9200&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> 
 
