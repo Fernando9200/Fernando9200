@@ -1,6 +1,5 @@
 ## Olá! Meu nome é Fernando Carretto, sou desenvolvedor Full-Stack e estou em busca de novas oportunidades!
 
-  
 
 <div align="center"> 
 
