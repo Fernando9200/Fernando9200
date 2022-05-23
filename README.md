@@ -4,7 +4,7 @@
 
   <a href="https://fernando-carretto.netlify.app/"> 
 
-  <img height="300em" src="https://i.ibb.co/MDKzSWB/banner.png" alt="banner" />  
+  <img height="300em" src="https://i.ibb.co/N7G0dcQ/banner-5.png" alt="banner" />  
 
 </div>
   
