@@ -1,4 +1,4 @@
-## Olá! Meu nome é Fernando Carretto, sou desenvolvedor Full-Stack.
+## Hello! My name is Fernando Carretto, I'm a Full-Stack developer and I'm open to new opportunities!
 
 <div align="center"> 
 
@@ -9,7 +9,6 @@
 </div>
   
   ##
-
 <div align="center"> 
 
   <a href="https://github.com/Fernando9200"> 
