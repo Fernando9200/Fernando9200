@@ -1,4 +1,4 @@
-## Hello! My name is Fernando Carretto, I'm a Software Developer and I'm open to new opportunities!
+## Hi! My name is Fernando Carretto, I'm a Software Developer and I'm open to new opportunities!
 
 <div align="center"> 
 
