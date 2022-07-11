@@ -1,4 +1,4 @@
-## Hello! My name is Fernando Carretto and I'm a Software Developer.
+## Hi! My name is Fernando Carretto and I'm a Software Developer.
 
 <div align="center"> 
 
