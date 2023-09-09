@@ -1,4 +1,4 @@
-## Hello! My name is Fernando Carretto and I'm a Software Developer.
+<h1 align="center">Hi 👋, I'm Fernando Carretto, a Software Developer from Brazil.</h1>
 
 <div align="center"> 
 
@@ -15,7 +15,7 @@
 
 <img height="180em" src="https://github-readme-stats-qhs0ybvmy-fernando9200.vercel.app/api?username=Fernando9200&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 
-  <img height="180em" src="https://github-readme-stats-qhs0ybvmy-fernando9200.vercel.app/api/top-langs/?username=Fernando9200&layout=compact&langs_count=8&theme=dark&hide=less,cmake"/> 
+  <img height="180em" src="https://github-readme-stats-qhs0ybvmy-fernando9200.vercel.app/api/top-langs/?username=Fernando9200&layout=compact&langs_count=8&theme=dark&hide=less,cmake&size_weight=0.5&count_weight=0.5"/> 
 
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Fernando9200&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/Fernando9200)  
     
