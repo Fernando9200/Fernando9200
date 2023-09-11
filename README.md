@@ -15,7 +15,7 @@
 
 <img height="180em" src="https://github-readme-stats-qhs0ybvmy-fernando9200.vercel.app/api?username=Fernando9200&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 
-  <img height="180em" src="https://github-readme-stats-qhs0ybvmy-fernando9200.vercel.app/api/top-langs/?username=Fernando9200&layout=compact&langs_count=8&theme=dark&hide=less,cmake"/>
+  <img height="180em" src="https://github-readme-stats-qhs0ybvmy-fernando9200.vercel.app/api/top-langs/?username=Fernando9200&layout=compact&langs_count=8&theme=dark&hide=less,cmake&exclude_repo=github-readme-streak-stats-fernando"/>
 
   [![GitHub Streak](https://github-readme-streak-stats-fernando.vercel.app?user=Fernando9200&theme=dark)](https://git.io/streak-stats)
     
