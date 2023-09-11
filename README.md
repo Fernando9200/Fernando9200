@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Fernando Carretto, a Software Developer from Brazil.</h1>
+<h1 align="center">Hi 👋, I'm Fernando Carretto, a Software Developer from Brazil</h1>
 
 <div align="center"> 
 
