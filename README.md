@@ -58,8 +58,7 @@
   ## 
 
    
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a align="center" href="https://linkedin.com/in/julio-f-tassinari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="julio-f-tassinari" height="30" width="40" /></a>
+<a align="center" href="https://linkedin.com/in/fernando-carretto/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fernando-carretto" height="30" width="40" /></a>
 </p>
