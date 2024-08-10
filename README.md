@@ -64,3 +64,5 @@
 <p align="center">
 <a align="center" href="https://linkedin.com/in/fernando-carretto/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fernando-carretto" height="30" width="40" /></a>
 </p>
+
+![](https://hit.yhype.me/github/profile?user_id=91075845)
