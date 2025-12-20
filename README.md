@@ -1,64 +1,98 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=2E97F7&center=true&vCenter=true&multiline=true&width=435&height=100&lines=Hi+👋+I'm+Fernando+Carretto;Software+Developer+from+Brazil;Passionate+about+Web+Development" />
-</p>
+<div align="center">
+  
+# 👋 Hi, I'm Fernando Carretto
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Software+Developer+from+Brazil+🇧🇷;Full+Stack+Developer+💻;Building+Amazing+Web+%26+Mobile+Apps+🚀;Passionate+about+Clean+Code+✨" alt="Typing SVG" />
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fernando-carretto/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Fernando9200)
+
+</div>
 
 ---
 
-<div align="center"> 
-  <a href="https://github.com/Fernando9200"> 
-    <img height="180em" src="https://github-readme-stats-one-virid-31.vercel.app/api?username=Fernando9200&show_icons=true&theme=dark&include_all_commits=true&count_private=true" decoding="async" loading="lazy"/>
-    <img height="180em" src="https://github-readme-stats-one-virid-31.vercel.app/api/top-langs/?username=Fernando9200&layout=compact&langs_count=8&theme=dark&hide=less,cmake&exclude_repo=github-readme-streak-stats-fernando&size_weight=0.5&count_weight=0.5" decoding="async" loading="lazy"/>
-  </a>
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-one-virid-31.vercel.app/api?username=Fernando9200&show_icons=true&theme=dark&include_all_commits=true&count_private=true&border_radius=10&hide_border=true&bg_color=0D1117&title_color=E74C3C&icon_color=E74C3C&text_color=C9D1D9" alt="Fernando's GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats-one-virid-31.vercel.app/api/top-langs/?username=Fernando9200&layout=compact&langs_count=8&theme=dark&hide=less,cmake&exclude_repo=github-readme-streak-stats-fernando&border_radius=10&hide_border=true&bg_color=0D1117&title_color=E74C3C&text_color=C9D1D9" alt="Top Languages"/>
 </div>
 
 <div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats-fernando.vercel.app?user=Fernando9200&theme=dark" alt="GitHub Streak" />
-  </a>
+  <img src="https://github-readme-streak-stats-fernando.vercel.app?user=Fernando9200&theme=dark&hide_border=true&border_radius=10&background=0D1117&ring=E74C3C&fire=E74C3C&currStreakLabel=C9D1D9" alt="GitHub Streak"/>
 </div>
 
 ---
 
-<h2 align="center">🚀 Technologies & Tools</h2>
+## 🛠️ Tech Stack & Tools
 
 <div align="center">
-  <h3>Frontend Development</h3>
-  <p>
-    <img alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> 
-    <img alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img alt="Vue.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
-    <img alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
-    <img alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img alt="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-  </p>
 
-  <h3>Backend Development</h3>
-  <p>
-    <img alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img alt="Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
-    <img alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  </p>
+### 💻 Frontend Development
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-  <h3>Mobile Development</h3>
-  <p>
-    <img alt="Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
-    <img alt="Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
-  </p>
+### ⚙️ Backend Development
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
-  <h3>Tools & Version Control</h3>
-  <p>
-    <img alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  </p>
+### 📱 Mobile Development
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+### 🔧 Tools & Version Control
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 </div>
 
 ---
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-  <a href="https://linkedin.com/in/fernando-carretto/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fernando-carretto" height="30" width="40" />
-  </a>
-</p>
+## 📈 Contribution Graph
 
-![](https://hit.yhype.me/github/profile?user_id=91075845)
+<div align="center">
+  
+[![Fernando's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Fernando9200&theme=github-compact&hide_border=true&bg_color=0D1117&color=E74C3C&line=E74C3C&point=C9D1D9)](https://github.com/Fernando9200)
+
+</div>
+
+---
+
+## 🎯 About Me
+
+```typescript
+const fernando = {
+    location: "Brazil 🇧🇷",
+    role: "Full Stack Developer",
+    code: ["JavaScript", "TypeScript", "Python", "Dart"],
+    technologies: {
+        frontend: ["React", "Vue.js", "HTML5", "CSS3", "Bootstrap"],
+        backend: ["Node.js", "Django", "Python"],
+        mobile: ["Flutter"],
+        tools: ["Git", "GitHub", "VS Code"]
+    },
+    currentFocus: "Building amazing web and mobile applications",
+    funFact: "I love turning coffee into code! ☕💻"
+};
+```
+
+---
+
+<div align="center">
+  
+### 💡 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+
+<img src="https://komarev.com/ghpvc/?username=Fernando9200&color=E74C3C&style=for-the-badge&label=Profile+Views" alt="Profile views"/>
+
+**Thanks for visiting! Let's connect and build something amazing together! 🚀**
+
+</div>
