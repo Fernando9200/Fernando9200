@@ -91,7 +91,7 @@ const fernando = {
   
 ### 💡 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
-<img src="https://komarev.com/ghpvc/?username=Fernando9200&color=E74C3C&style=for-the-badge&label=Profile+Views" alt="Profile views"/>
+<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FFernando9200"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FFernando9200&label=Profile%20Views&countColor=%23E74C3C" alt="Profile views"/></a>
 
 **Thanks for visiting! Let's connect and build something amazing together! 🚀**
 
