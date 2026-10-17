@@ -61,7 +61,7 @@
 
 <div align="center">
   
-[![Fernando's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Fernando9200&theme=github-compact&hide_border=true&bg_color=0D1117&color=E74C3C&line=E74C3C&point=C9D1D9)](https://github.com/Fernando9200)
+[![Fernando's github activity graph](https://raw.githubusercontent.com/Fernando9200/Fernando9200/output/activity-graph.svg)](https://github.com/Fernando9200)
 
 </div>
 
